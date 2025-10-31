@@ -36,8 +36,14 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 
 - [UT07: Desarrollo web avanzado. Aplicaciones web híbridas]
 
+## Reconocimientos
 
-  
+Repositorio con contenidos originales y creados por profesores que comparten su esfuerzo para que el aprendizaje sea un más fácil.
+
+https://github.com/joseluisgs
+[📖JoseLuisGS by José Luis González Sánchez is licensed under a Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License.]
+
+....
 
 ## Licencia
 
