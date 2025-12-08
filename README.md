@@ -28,13 +28,13 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 
 - [UT03: Programación web con Spring Framework & Spring Boot](https://github.com/profeMelola/DWES-03-2025-26)
   
-- [UT04: Sesiones y autenticación] (https://github.com/profeMelola/DWES-03-2025-26)
+- [UT04: Sesiones y autenticación](https://github.com/profeMelola/DWES-03-2025-26)
   
-- [UT05: Persistencia de datos en aplicaciones web] (https://github.com/profeMelola/DWES-03-2025-26)
+- [UT05: Persistencia de datos en aplicaciones web](https://github.com/profeMelola/DWES-03-2025-26)
   
-- [UT06: Servicios Web] (https://github.com/profeMelola/DWES-03-2025-26)
+- [UT06: Servicios Web](https://github.com/profeMelola/DWES-03-2025-26)
 
-- [UT07: Desarrollo web avanzado. Aplicaciones web híbridas. Proyecto FoodExpress II] (https://github.com/profeMelola/ProyectoFoodExpress))
+- [UT07: Desarrollo web avanzado. Aplicaciones web híbridas. Proyecto FoodExpress II](https://github.com/profeMelola/ProyectoFoodExpress))
 
 ## Reconocimientos
 
