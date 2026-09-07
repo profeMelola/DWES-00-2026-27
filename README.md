@@ -5,7 +5,7 @@ Repositorio principal del módulo DWES
 ![img.png](img.png)
 
 
-## Resultados de aprendizaje
+## Resultados de Aprendizaje
 
 De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el Real Decreto. 405/2023, de 29 de mayo de 2023 por el que se establece el título de Técnico Superior en Desarrollo de Aplicaciones Web y se fijan sus enseñanzas mínimas, los resultados de aprendizaje a alcanzar con la realización del módulo son:
 
@@ -23,6 +23,7 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 
 
 - [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web]
+
 
 <!--
 - [UT02: Programación web con Java (JakartaEE)](https://github.com/profeMelola/DWES-02-2025-26)
