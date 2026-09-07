@@ -24,6 +24,7 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 
 - [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web]
 
+<!--
 - [UT02: Programación web con Java (JakartaEE)](https://github.com/profeMelola/DWES-02-2025-26)
 
 - [UT03: Programación web con Spring Framework & Spring Boot](https://github.com/profeMelola/DWES-03-2025-26)
@@ -37,6 +38,7 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 - [UT07: Desarrollo web avanzado. Aplicaciones web híbridas. Proyecto FoodExpress II](https://github.com/profeMelola/ProyectoFoodExpress))
   
 - [REFUERZO EXTRAORDINARIA](https://github.com/profeMelola/DWES-REFUERZO-EXTRAORDINARIA)
+-->
 
 ## Reconocimientos
 
