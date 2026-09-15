@@ -22,8 +22,10 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 ## Unidades de trabajo
 
 
-- [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web]
-
+- [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web](https://github.com/profeMelola/DWES-01-2026-27)
+- UT02: Páginas dinámicas, sesiones y arquitectura MVC
+- UT03: Servicios web con Spring. API Rest
+- UT04: Persistencia y aplicaciones híbridas
 
 <!--
 - [UT02: Programación web con Java (JakartaEE)](https://github.com/profeMelola/DWES-02-2025-26)
